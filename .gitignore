@@ -1,0 +1,67 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub-cache/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+pubspec.lock
+analysis_options.yaml
+
+# IntelliJ / Android Studio
+*.iml
+.idea/
+*.ipr
+*.iws
+
+# VS Code
+.vscode/
+
+# Arquivos temporários do sistema
+*.log
+*.tmp
+*.swp
+.DS_Store
+
+# Android
+android/*
+android/.gradle/
+android/app/build/
+android/local.properties
+android/.idea/
+
+# iOS
+ios/*
+ios/Flutter/Flutter.podspec
+ios/.symlinks/
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/build/
+ios/.idea/
+
+# macOS
+macos/*
+macos/Flutter/Flutter.podspec
+macos/.symlinks/
+macos/Pods/
+macos/build/
+
+# Web
+web/*
+web/.dart_tool/
+web/build/
+
+# Linux
+linux/*
+linux/build/
+linux/.dart_tool/
+
+# Windows
+windows/*
+windows/build/
+windows/.dart_tool/
+
+# Outras IDEs
+*.orig
+ 
